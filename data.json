@@ -1,0 +1,12 @@
+{
+    "category": "data",
+    "data": "sample_data_block",
+    "description": "This is a sample data block for testing FGDB functionality",
+    "created_date": "2025-06-25",
+    "block_type": "data_processor",
+    "properties": {
+        "input_format": "csv",
+        "output_format": "json",
+        "processing_method": "transformation"
+    }
+}
