@@ -1,0 +1,12 @@
+{
+    "category": "function",
+    "data": "data_processor",
+    "description": "Data processing function block",
+    "created_date": "2025-06-25",
+    "block_type": "processor",
+    "properties": {
+        "input_types": ["csv", "json"],
+        "output_types": ["json", "xml"],
+        "processing_speed": "high"
+    }
+}
