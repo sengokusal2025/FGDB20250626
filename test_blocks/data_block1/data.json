@@ -1,0 +1,12 @@
+{
+    "category": "data",
+    "data": "customer_database",
+    "description": "Customer information database block",
+    "created_date": "2025-06-25",
+    "block_type": "database",
+    "properties": {
+        "table_count": 5,
+        "record_count": 10000,
+        "database_type": "postgresql"
+    }
+}
